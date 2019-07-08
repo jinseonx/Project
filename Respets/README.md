@@ -74,7 +74,8 @@
 
 - 팀원들과의 소통을 위해 구글 프레젠테이션을 이용해 실시간으로 스토리보드 작성 및 수정
 
-- [스토리보드 바로가기]: https://docs.google.com/presentation/d/1ztzhVSoASep-BAfIiUKH3ZBAkVb8FgGh6kHbj-5WwRw/edit?usp=sharing
+- 스토리보드 바로가기<br>
+https://docs.google.com/presentation/d/1ztzhVSoASep-BAfIiUKH3ZBAkVb8FgGh6kHbj-5WwRw/edit?usp=sharing
 
   
 
